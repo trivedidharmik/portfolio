@@ -90,7 +90,7 @@ function Projects() {
     // {
     {
       name: "PortFolio Website",
-      link: "https://github.com/ketulkpatel/Portfolio-React",
+      link: "https://github.com/trivedidharmik/portfolio",
       description:
         "A showcase of my projects and skills, demonstrating my expertise in app development, programming, and problem-solving.",
       skills: [
