@@ -31,6 +31,7 @@ import {
   SiScikitlearn,
   SiTensorflow,
   SiKeras,
+  SiCsharp,
 } from "react-icons/si";
 import {
   FaAngular,
@@ -58,6 +59,7 @@ export default function Interests() {
     { name: "JavaScript", color: "yellow.500", icon: SiJavascript },
     { name: "TypeScript", color: "blue.700", icon: SiTypescript },
     { name: "Java", color: "red.600", icon: FaJava },
+    { name: "C#", color: "purple.600", icon: SiCsharp },
     { name: "Python", color: "green.500", icon: SiPython },
     { name: "C", color: "gray.700", icon: FaC },
     { name: "C++", color: "pink.500", icon: SiCplusplus },
