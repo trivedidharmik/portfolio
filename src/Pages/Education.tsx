@@ -41,7 +41,7 @@ export default function Education() {
         "Dean's List 2023-24 & 2021-22",
         "Faculty Of Computer Science Co-Op Program (16 months)",
       ],
-      transcript: "https://trivedidharmik.github.io/portfolio/transcript.pdf",
+      transcript: "https://dhamu.me/transcript.pdf",
       x_before: -100,
       x_after: 0,
       y_before: 0,
