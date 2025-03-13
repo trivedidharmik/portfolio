@@ -10,6 +10,7 @@ export default function RootLayout() {
       <NavBar />
       <Outlet />
       <MadeWith />
+      <Analytics />
     </Box>
   );
 }
